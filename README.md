@@ -34,7 +34,7 @@ To-do list:
 
 ## Getting Started
    
-git remote and origin https://github.com/RashvikaP/Resturant_management_system.git
+git remote and origin https://github.com/vasudevareddy214/Restuarant-Management-System.git
 
 > Compile and run java code through tomcat server
 >  Run code in eclipse IDE
